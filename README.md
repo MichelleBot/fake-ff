@@ -6,16 +6,11 @@ Fake Free Fire lobby card generator — support bot WA, Telegram, website, dan l
 
 <img src="https://raw.githubusercontent.com/Ditzzx-vibecoder/Assets/main/Image/IMG_20260605_061843_412.jpg" width="250"/>
 
-## Installation
-
-```bash
-npm install fake-ff
-```
 
 ## Usage
 
 ```javascript
-const generateFF = require('fake-ff')
+import generateFF from 'fake-ff'
 
 // Custom username & lobby
 const result = await generateFF({
