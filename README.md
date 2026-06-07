@@ -28,7 +28,7 @@ console.log(result)
 //   status: true,
 //   creator: '@michelle.js - Darrel Parker',
 //   data: {
-        image: './fake-ff/Michelle.png'
+//      image: './fake-ff/Michelle.png'
 //   }
 // }
 ```
