@@ -25,11 +25,11 @@ const result = await generateFF({
 
 console.log(result)
 // {
-//   status: 'success',
-//   code: 200,
-//   username: 'Michelle',
-//   lobby: 5,
-//   result: './fake-ff/Michelle.png'
+//   status: true,
+//   creator: '@michelle.js - Darrel Parker',
+//   data: {
+        image: './fake-ff/Michelle.png'
+//   }
 // }
 ```
 
